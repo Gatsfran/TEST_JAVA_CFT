@@ -11,9 +11,9 @@
 ```
 ### Пример запуска утилиты:
 ```
-C:\Users\OTETS> cd C:\Users\OTETS\IdeaProjects\CFT\src
+C:\Users\OTETS> cd C:\Users\OTETS\Desktop\TEST_JAVA_CFT\src
 
-C:\Users\OTETS\IdeaProjects\CFT\src> java UtilSort in1.txt in2.txt
--o C:\Users\OTETS\IdeaProjects\CFT\src -p result_ -s -f
+C:\Users\OTETS\Desktop\TEST_JAVA_CFT\src> java UtilSort in1.txt in2.txt
+-o C:\Users\OTETS\Desktop\TEST_JAVA_CFT\src -p result_ -s -f
 
 ```
