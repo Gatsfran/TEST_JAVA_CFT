@@ -13,5 +13,7 @@
 ```
 C:\Users\OTETS> cd C:\Users\OTETS\IdeaProjects\CFT\src
 
-C:\Users\OTETS\IdeaProjects\CFT\src> java UtilSort in1.txt in2.txt -o C:\Users\OTETS\IdeaProjects\CFT\src -p result_ -s -f
+C:\Users\OTETS\IdeaProjects\CFT\src> java UtilSort in1.txt in2.txt
+-o C:\Users\OTETS\IdeaProjects\CFT\src -p result_ -s -f
+
 ```
